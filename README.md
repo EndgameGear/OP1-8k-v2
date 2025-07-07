@@ -1,4 +1,4 @@
-#OP1-8k v2
+OP1-8k v2
 Endgame Gear OP1 8k v2 firmwares
 
 Changelog:
